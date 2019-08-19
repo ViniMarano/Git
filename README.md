@@ -3,5 +3,3 @@
 ## Introdução
 
 Como criar um repositório no Git.
-
-teste 1
